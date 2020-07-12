@@ -1,0 +1,12 @@
+.photoContainer{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap
+}
+.photoContainer>img{
+	width: 30%;
+	object-fit: cover;
+	height: 275px;
+	padding: 10px;
+}

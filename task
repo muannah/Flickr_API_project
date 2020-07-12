@@ -1,0 +1,12 @@
+Your goal in this project is to create a web page with a form and a photo grid. The photo grid should be 3 columns across for each row (3 images to a row).
+
+The form should accept a tag name. A tag name (when referencing any type of blog, e-commerce website) is a label put on a product/post to help people search it by. Once the user types in the tag name, your form should send an API request to Flickr to retrieve photos based on your tag search and display the photos in the grid.
+
+I will be randomly calling on people the next day of class to present their projects and explain the issues and triumphs they came across during the project.
+
+**This is extremely vague on purpose. Rummage through Flickr's website and documentation to learn how to use their API. Knowing how to read documentation is just as important as knowing how to connect to an API. All API documentation is not created equal. Sometimes you'll spend days learning how to use a new platform's API**
+
+Extra Note:
+Being tasked with things that require you to read through documentation and 'figure it out' is extremely common in the real world. Take it all in! :-)
+
+
